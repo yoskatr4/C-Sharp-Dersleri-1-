@@ -15,3 +15,7 @@ Yeni bir dil öğrenmek zaman alır, bu nedenle eğitime başlamadan önce onu d
 C# öğrenmesi nispeten kolaydır.  Debugger özelliği ile “syntax” hatalarının kolayca tespitini yapar. Sorunlar hakkında endişelenmenize gerek kalmaz. Ayrıca, size kod yazmayı daha hızlı ve kolay hale getiren kitaplıkları da mevcuttur.
 C# açık kaynak kodlu bir programlama dilidir. Bu da esnek ve herkes tarafından geliştirilebilen bir dil olduğunun göstergesidir. Ayrıca program geliştirme ve bakım işlemleri daha kolay yapılabilmektedir.
 C# hızlıdır. C# ile hızlı kod yazmak diğer dillere göre daha kolaydır. Yüksek performanslı uygulamaları hızlı bir şekilde C# ile yazabilirsiniz.
+
+# Bir Sonraki Ders
+
+#### [Bir Sonraki Ders](https://github.com/yoskatr4/C-Sharp-Dersleri-2-)
